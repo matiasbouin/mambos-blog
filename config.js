@@ -25,7 +25,7 @@ module.exports = {
     },
   ],
   author: {
-    name: "Mmbos",
+    name: "Mambos",
     photo: "/photo.png",
     bio: "Acá básicamente escribo, plasmo y digiero mambos.",
     contacts: {
