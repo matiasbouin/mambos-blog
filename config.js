@@ -3,7 +3,7 @@
 module.exports = {
   url: "https://lumen.netlify.com",
   pathPrefix: "/",
-  title: "Matias Bouin Blog",
+  title: "Mambos blog",
   subtitle: "Todo lo que se me ocurra",
   copyright: "© Todos los derechos reservados.",
   disqusShortname: "",
@@ -20,7 +20,7 @@ module.exports = {
       path: "/pages/about",
     },
     {
-      label: "Contactáme",
+      label: "Contacto",
       path: "/pages/contacts",
     },
   ],
