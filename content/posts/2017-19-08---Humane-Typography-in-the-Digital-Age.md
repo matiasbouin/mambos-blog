@@ -16,7 +16,7 @@ tags:
 
 ## Intro
 
-Hace ya casi 10 años que ando en skate, y cada vez se me hace más difícil intentar definirlo en palabras. Esto me hace pensar que puede ser una forma de arte, ya que permite que nos expresemos y plasmemos de la manera que nosotros querramos a través de una tabla con 4 ruedas. No hay una forma de andar bien o mal, sólamente andas en skate. Estos videos son una confirmación de que realmente es una forma de arte, y que además, es una muy contagiosa si se la plasma de cierta manera. Sin más palabras acá van 10 videos que te van a dejar manija de conocer más de este arte.
+Hace ya casi 10 años que ando en skate, y cada vez se me hace más difícil intentar definirlo en palabras. Esto me hace pensar que puede ser una forma de arte, ya que permite que nos expresemos y plasmemos de la manera que nosotros querramos a través de una tabla con 4 ruedas. No hay una forma de andar bien o mal, sólamente andas en skate. Estos videos son una confirmación de que realmente es una forma de arte, y que además, es una muy contagiosa si se la plasma de cierta manera. Sin más palabras acá van algunos videos que te van a dejar manija de conocer más de este arte.
 
 ![Alguien pateando en San Francisco](/media/skatepush.jpg)
 
