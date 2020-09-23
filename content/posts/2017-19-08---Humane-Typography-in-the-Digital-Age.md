@@ -1,80 +1,51 @@
 ---
-title: Humane Typography in the Digital Age
-date: "2017-08-19T22:40:32.169Z"
-template: "post"
+template: post
+title: Videos de skate que te van a dar ganas de andar (Incluso si odias el skate)
+slug: videos-de-skate
+socialImage: /media/skatepush.jpg
 draft: false
-slug: "humane-typography-in-the-digital-age"
-category: "Typography"
+date: 2020-09-23T01:04:38.076Z
+description: Andas en skate? Odias el skate? Nunca escuchaste hablar del skate
+  en tu vida por qué lo prohibieron en tu país? No importa. Estos videos te van
+  a dar mucha manija de andar.
+category: Skate
 tags:
-  - "Design"
-  - "Typography"
-  - "Web Development"
-description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
-socialImage: "/media/42-line-bible.jpg"
+  - Skate
 ---
 
-- [The first transition](#the-first-transition)
-- [The digital age](#the-digital-age)
-- [Loss of humanity through transitions](#loss-of-humanity-through-transitions)
-- [Chasing perfection](#chasing-perfection)
 
-An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.
+## Intro
 
-The typography of this industrial age was no longer handcrafted. Mass production and profit became more important. Quantity mattered more than the quality. The books and printed works in general lost a part of its humanity. The typefaces were not produced by craftsmen anymore. It was the machines printing and tying the books together now. The craftsmen had to let go of their craft and became a cog in the process. An extension of the industrial machine.
+Hace ya casi 10 años que ando en skate, y cada vez se me hace más difícil intentar definirlo en palabras. Esto me hace pensar que puede ser una forma de arte, ya que permite que nos expresemos y plasmemos de la manera que nosotros querramos a través de una tabla con 4 ruedas. No hay una forma de andar bien o mal, sólamente andas en skate. Estos videos son una confirmación de que realmente es una forma de arte, y que además, es una muy contagiosa si se la plasma de cierta manera. Sin más palabras acá van 10 videos que te van a dejar manija de conocer más de este arte.
 
-But the victory of the industrialism didn’t mean that the craftsmen were completely extinct. The two worlds continued to coexist independently. Each recognising the good in the other — the power of industrialism and the humanity of craftsmanship. This was the second transition that would strip typography of a part of its humanity. We have to go 500 years back in time to meet the first one.
+![Alguien pateando en San Francisco](/media/skatepush.jpg)
 
-## The first transition
+*Alguien pateando por San Francisco.*
 
-A similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.
+## Dylan Rieder - The True Blue
 
-The first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.
+Sin dudas fue uno de los skaters mas icónicos de esta generación, y sin dudas este es uno de los videos que más demuestran que el skate puede realmente ser arte. Siempre pienso en todo el material que nos faltó ver de él. RIP Dylan.
 
-![42-line-bible.jpg](/media/42-line-bible.jpg)
+Parte: [Dylan Rieder - The True Blue](https://www.youtube.com/watch?v=xtCKZWleUNs)
 
-*The 42–Line Bible, printed by Gutenberg.*
+![Dylan Rieder](/media/dylanrieder.jpg)
 
-But, through this transition, the book lost a large part of its humanity. The machine took over most of the process but craftsmanship was still a part of it. The typefaces were cut manually by the first punch cutters. The paper was made by hand. The illustrations and ornaments were still being hand drawn. These were the remains of the craftsmanship that went almost extinct in the times of Eric Gill.
 
-## The digital age
 
-The first transition took away a large part of humanity from written communication. Industrialisation, the second transition described by Eric Gill, took away most of what was left. But it’s the third transition that stripped it naked. Typefaces are faceless these days. They’re just fonts on our computers. Hardly anyone knows their stories. Hardly anyone cares. Flicking through thousands of typefaces and finding the “right one” is a matter of minutes.
+## Vans - Credits
 
-> In the new computer age the proliferation of typefaces and type manipulations represents a new level of visual pollution threatening our culture. Out of thousands of typefaces, all we need are a few basic ones, and trash the rest.
->
-— Massimo Vignelli
+Este video personalmente me encanta, tiene un aire nostálgico que no sólo te inspira a salir a andar, si no a vivir, disfrutar momentos con tus amigos y hasta ser una mejor persona.
 
-Typography is not about typefaces. It’s not about what looks best, it’s about what feels right. What communicates the message best. Typography, in its essence, is about the message. “Typographical design should perform optically what the speaker creates through voice and gesture of his thoughts.”, as El Lissitzky, a famous Russian typographer, put it.
+Parte: [Vans - Credits](https://www.youtube.com/watch?v=IQbZFFpK4kE)
 
-## Loss of humanity through transitions
+![vans credits](/media/vanscredits.jpg)
 
-Each transition took away a part of humanity from written language. Handwritten books being the most humane form and the digital typefaces being the least. Overuse of Helvetica is a good example. Messages are being told in a typeface just because it’s a safe option. It’s always there. Everyone knows it but yet, nobody knows it. Stop someone on the street and ask him what Helvetica is? Ask a designer the same question. Ask him where it came from, when, why and who designed it. Most of them will fail to answer these questions. Most of them used it in their precious projects but they still don’t spot it in the street.
+*No debería hacer falta, pero cabe mencionar que es un video protagonizado sólo por pibas.*
 
-<figure>
-	<blockquote>
-		<p>Knowledge of the quality of a typeface is of the greatest importance for the functional, aesthetic and psychological effect.</p>
-		<footer>
-			<cite>— Josef Mueller-Brockmann</cite>
-		</footer>
-	</blockquote>
-</figure>
+## I like it here inside my mind, don't wake me up this time - Dane Brady
 
-Typefaces don’t look handmade these days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t.
+El video completo en sí, es una locura, los efectos especiales, la música de 8 bits, el skate palpable a través de la pantalla, etc. Pero esta parte, es algo más. Si los anteriores videos no te convencieron de salir a andar auque estés leyendo esto a las 3 de la mañana y tengas 50 años, pongo a mi gato en garantía de que este lo va a lograr.
 
-> Humane typography will often be comparatively rough and even uncouth; but while a certain uncouthness does not seriously matter in humane works, uncouthness has no excuse whatever in the productions of the machine.
->
-> — Eric Gill
+Parte: [I like it here inside my mind, don't wake me up this time - Dane Brady](https://www.youtube.com/watch?v=YQCZn9Qoy2E)
 
-We’ve come close to “perfection” in the last five centuries. The letters are crisp and without rough edges. We print our compositions with high–precision printers on a high quality, machine made paper.
-
-![type-through-time.jpg](/media/type-through-time.jpg)
-
-*Type through 5 centuries.*
-
-We lost a part of ourselves because of this chase after perfection. We forgot about the craftsmanship along the way. And the worst part is that we don’t care. The transition to the digital age made that clear. We choose typefaces like clueless zombies. There’s no meaning in our work. Type sizes, leading, margins… It’s all just a few clicks or lines of code. The message isn’t important anymore. There’s no more “why” behind the “what”.
-
-## Chasing perfection
-
-Human beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?
-
-*Originally published by [Matej Latin](http://matejlatin.co.uk/) on [Medium](https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x).*
+![Dany Brady](/media/danebrady.jpg)
